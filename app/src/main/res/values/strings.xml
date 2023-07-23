@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Speak and Translate</string>
+    <string name="text_translator">Text Translator</string>
+    <string name="camera_translator" translatable="false">Camera Translator</string>
+    <string name="voice_translator">Voice Translator</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share_app">Share app</string>
+    <string name="feedback">Privacy policy</string>
+    <string name="about_us">About us</string>
+    <string name="image">Image</string>
+    <string name="dummy_text">Enter text to check spelling Enter text to check spelling Enter text to check spelling.</string>
+    <string name="dummyLongText">Enter text to check spelling Enter text to check spellingEnter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling.Enter text to check spelling Enter text to check spelling Enter text to check spelling</string>
+
+
+    <string name="copyright">Copyright \u00a9 2022–2023</string>
+    <string name="version_name">Version 1.0</string>
+
+    <!--Native Ad Attributes-->
+    <string name="this_that">this_that</string>
+    <string name="title">Title</string>
+    <string name="sub_title">Sub_title</string>
+    <string name="ad_body_discription">ad_body_discription</string>
+    <string name="price">price</string>
+    <string name="ad_store">ad_store</string>
+    <string name="install">Install</string>
+    <string name="rate_app">Rate App</string>
+    <string name="ad_attribution">AD</string>
+
+    <string name="rate_kindly">Kindly Rate Our Application on Play Store!</string>
+    <string name="sorry_fr">We are Sorry for your bad experience in Application.</string>
+    <string name="like_you_too">We like you too! \n Thanks for your feedback.</string>
+    <string name="leave_feedback">Oh, No! \n Please leave us some feedback.</string>
+    <string name="hard_work">We are working hard for a better user experience. It\'d be appreciated if you can rate us.</string>
+
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="note">Welcome to voice translator, click the button above to start talking</string>
+    <string name="enter_text_to_translate">Enter text to translate...</string>
+    <string name="translate">Translate</string>
+
+    <string name="pref_night_mode">Dark theme</string>
+    <string name="let_s_get_started">Get Started</string>
+    <string name="no_found">No text found!</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_now">Not now</string>
+    <string-array name="pref_night_mode_options_api21_28">
+        <item>Always</item>
+        <item>Set by Battery Saver</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_night_mode_options_api29">
+        <item>Always</item>
+        <item>Automatically (follow system)</item>
+        <item>Never</item>
+    </string-array>
+</resources>

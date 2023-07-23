@@ -1,0 +1,430 @@
+[
+  {
+    "code": "af-ZA",
+    "name": "Afrikaans",
+    "nativeName": "Afrikaans",
+    "flagName": "ic_south_africa"
+  },
+  {
+    "code": "am-ET",
+    "name": "Amharic",
+    "nativeName": "አማርኛ",
+    "flagName": "ic_ethiopia"
+  },
+  {
+    "code": "ar-SA",
+    "name": "Arabic",
+    "nativeName": " العربية  ",
+    "flagName": "ic_saudi_arabia"
+  },
+  {
+    "code": "hy-AM",
+    "name": "Armenian",
+    "nativeName": "Հայ",
+    "flagName": "ic_armenia"
+  },
+  {
+    "code": "az-AZ",
+    "name": "Azerbaycan",
+    "nativeName": "Azərbaycan",
+    "flagName": "ic_azerbaijan"
+  },
+  {
+    "code": "eu-ES",
+    "name": "Basque",
+    "nativeName": " Euskara",
+    "flagName": "ic_basque_country"
+  },
+  {
+    "code": "bn-BD",
+  "name": "Bengali",
+  "nativeName": "বাংলা",
+    "flagName": "ic_bangladesh"
+  },
+  {
+    "code": "bg-BG",
+    "name": "Bulgarian",
+    "nativeName": " Български  ",
+    "flagName": "ic_bulgaria"
+  },
+  {
+    "code": "ca-ES",
+    "name": "Catalan",
+    "nativeName": "Català",
+    "flagName": "ic_catalan"
+  },
+  {
+    "code": "hr-HR",
+    "name": "Croatian",
+    "nativeName": " Hrvatski ",
+    "flagName": "ic_croatia"
+  },
+  {
+    "code": "cs-CZ",
+    "name": "Czech",
+    "nativeName": " Čeština",
+    "flagName": "ic_czech_republic"
+  },
+  {
+    "code": "yue-Hant-HK",
+    "name": "Cantonese",
+    "nativeName": "廣東話",
+    "flagName": "ic_china"
+  },
+  {
+    "code": "zh",
+    "name": "Chinese",
+    "nativeName": "普通",
+    "flagName": "ic_china"
+  },
+  {
+    "code": "da-DK",
+    "name": "Danish",
+    "nativeName": "Dansk",
+    "flagName": "danish"
+  },
+  {
+    "code": "nl-NL",
+    "name": "Dutch",
+    "nativeName": "Nederlands",
+    "flagName": "ic_denmark"
+  },
+  {
+    "code": "en-GB",
+    "name": "English",
+    "nativeName": "English",
+    "flagName": "ic_england"
+  },
+  {
+    "code": "eo",
+    "name": "Esperanto",
+    "nativeName": "Esperanto",
+    "flagName": "english"
+  },
+  {
+    "code": "et",
+    "name": "Estonian",
+    "nativeName": "Estonian",
+    "flagName": "english"
+  },
+  {
+    "code": "fil-PH",
+    "name": "Filipino",
+    "nativeName": "Filipino",
+    "flagName": "ic_philippines"
+  },
+  {
+    "code": "fr-FR",
+    "name": "French",
+    "nativeName": "Français",
+    "flagName": "ic_france"
+  },
+  {
+    "code": "fi-FI",
+    "name": "Finnish",
+    "nativeName": "Suomi",
+    "flagName": "ic_france"
+  },
+  {
+    "code": "gl-ES",
+    "name": "Galician",
+    "nativeName": "Galego",
+    "flagName": "ic_galician"
+  },
+  {
+    "code": "ka-GE",
+    "name": "Georgian",
+    "nativeName": "ქართული",
+    "flagName": "ic_georgia"
+  },
+  {
+    "code": "gu-IN",
+    "name": "Gujarati",
+    "nativeName": "ગુજરાતી",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "de-DE",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "flagName": "ic_germany"
+  },
+  {
+    "code": "el-GR",
+    "name": "Greek",
+    "nativeName": " Ελληνικά ",
+    "flagName": "ic_greece"
+  },
+  {
+    "code": "he-IL",
+    "name": "Hebrew",
+    "nativeName": " עברית  ",
+    "flagName": "ic_israel"
+  },
+  {
+    "code": "hi-IN",
+    "name": "Hindi",
+    "nativeName": " हिन्दी  ",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "hu-HU",
+    "name": "Hungarian",
+    "nativeName": " Magyar ",
+    "flagName": "ic_hungary"
+  },
+  {
+    "code": "id-ID",
+    "name": "Indonesian",
+    "nativeName": "Bahasa Indonesia",
+    "flagName": "ic_indonesia"
+  },
+  {
+    "code": "is-IS",
+    "name": "Icelandic",
+    "nativeName": " Íslenska ",
+    "flagName": "ic_iceland"
+  },
+  {
+    "code": "it-IT",
+    "name": "Italian",
+    "nativeName": " Italiano  ",
+    "flagName": "ic_italy"
+  },
+
+  {
+    "code": "jv-ID",
+    "name": "Javanese",
+    "nativeName": " Jawa  ",
+    "flagName": "ic_indonesia"
+  },
+  {
+    "code": "ja-JP",
+    "name": "Japanese",
+    "nativeName": "日本語",
+    "flagName": "ic_japan"
+  },
+  {
+    "code": "kn-IN",
+    "name": "Kannada",
+    "nativeName": " ಕನ್ನಡ  ",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "km-KH",
+    "name": "Khmer",
+    "nativeName": " ភាសាខ្មែរ  ",
+    "flagName": "ic_cambodia"
+  },
+  {
+    "code": "ko-KR",
+    "name": "Korean",
+    "nativeName": "한국어  ",
+    "flagName": "ic_south_korea"
+  },
+  {
+    "code": "la",
+    "name": "Latin",
+    "nativeName": " Latin ",
+    "flagName": "ic_latvia"
+  },
+  {
+    "code": "lv-LV",
+    "name": "Latvian",
+    "nativeName": " Latviešu ",
+    "flagName": "ic_latvia"
+  },
+  {
+    "code": "lo-LA",
+    "name": "Lao",
+    "nativeName": " ລາວ  ",
+    "flagName": "ic_thailand"
+  },
+  {
+    "code": "ga",
+    "name": "Irish",
+    "nativeName": " Irish ",
+    "flagName": "ic_england"
+  },
+  {
+    "code": "lt-LT",
+    "name": "Lithuanian",
+    "nativeName": " Lietuvių ",
+    "flagName": "ic_lithuania"
+  },
+  {
+    "code": "ms-MY",
+    "name": "Malay",
+    "nativeName": "Bahasa Melayu",
+    "flagName": "ic_malaysia"
+  },
+  {
+    "code": "ml-IN",
+    "name": "Malayalam",
+    "nativeName": " മലയാളം ",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "mo",
+    "name": "Moldavian",
+    "nativeName": " Moldavian  ",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "mr-IN",
+    "name": "Marathi",
+    "nativeName": " मराठी  ",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "ne-NP",
+    "name": "Nepali",
+    "nativeName": " नेपाली  ",
+    "flagName": "ic_nepal"
+  },
+  {
+    "code": "nb-NO",
+    "name": "Norwegian",
+    "nativeName": " Norsk bokmål ",
+    "flagName": "ic_norway"
+  },
+  {
+    "code": "fa-IR",
+    "name": "Persian",
+    "nativeName": " فارسی  ",
+    "flagName": "ic_iran"
+  },
+  {
+    "code": "pa",
+    "name": "Punjabi",
+    "nativeName": "Punjabi",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "ps",
+    "name": "Pashto",
+    "nativeName": "Pashto",
+    "flagName": "ic_pakistan"
+  },
+  {
+    "code": "pl-PL",
+    "name": "Polish",
+    "nativeName": " Polski ",
+    "flagName": "ic_republic_of_poland"
+  },
+  {
+    "code": "pt-PT",
+    "name": "Portuguese",
+    "nativeName": " Português  ",
+    "flagName": "ic_portugal"
+  },
+  {
+    "code": "ro-RO",
+    "name": "Romanian",
+    "nativeName": " Română ",
+    "flagName": "ic_romania"
+  },
+  {
+    "code": "ru-RU",
+    "name": "Russian",
+    "nativeName": " Русский   ",
+    "flagName": "ic_russia"
+  },
+  {
+    "code": "si-LK",
+    "name": "Sinhala",
+    "nativeName": " සිංහල  ",
+    "flagName": "ic_sri_lanka"
+  },
+  {
+    "code": "sk-SK",
+    "name": "Slovak",
+    "nativeName": " Slovenčina  ",
+    "flagName": "ic_slovakia"
+  },
+  {
+    "code": "sl-SI",
+    "name": "Slovenian",
+    "nativeName": " Slovenščina  ",
+    "flagName": "ic_slovenia"
+  },
+  {
+    "code": "es-ES",
+    "name": "Spanish",
+    "nativeName": " Español  ",
+    "flagName": "ic_spain"
+  },
+  {
+    "code": "su-ID",
+    "name": "Sundanese",
+    "nativeName": " Urang  ",
+    "flagName": "ic_sudan"
+  },
+  {
+    "code": "sw-TZ",
+    "name": "Swahili",
+    "nativeName": " Swahili ",
+    "flagName": "ic_kenya"
+  },
+  {
+    "code": "sv-SE",
+    "name": "Swedish",
+    "nativeName": " Svenska ",
+    "flagName": "ic_sweden"
+  },
+  {
+    "code": "sr-RS",
+    "name": "Serbian",
+    "nativeName": " Српски  ",
+    "flagName": "ic_serbia"
+  },
+  {
+    "code": "ta-IN",
+    "name": "Tamil",
+    "nativeName": " தமிழ்  ",
+    "flagName": "ic_india"
+
+  },
+  {
+    "code": "te-IN",
+    "name": "Telugu",
+    "nativeName": " తెలుగు ",
+    "flagName": "ic_india"
+  },
+  {
+    "code": "th-TH",
+    "name": "Thai",
+    "nativeName": " ไทย",
+    "flagName": "ic_thailand"
+  },
+  {
+    "code": "tr-TR",
+    "name": "Turkish",
+    "nativeName": " Türkçe  ",
+    "flagName": "ic_turkey"
+  },
+  {
+    "code": "uk-UA",
+    "name": "Ukrainian",
+    "nativeName": " Українська ",
+    "flagName": "ic_ukraine"
+  },
+  {
+    "code": "ur-PK",
+    "name": "Urdu",
+    "nativeName": " اردو ",
+    "flagName": "ic_pakistan"
+  },
+  {
+    "code": "vi-VN",
+    "name": "Vietnamese",
+    "nativeName": " Tiếng Việt ",
+    "flagName": "ic_vietnam"
+  },
+  {
+    "code": "zu-ZA",
+    "name": "Zulu",
+    "nativeName": " IsiZulu  ",
+    "flagName": "ic_south_africa"
+  }
+]
